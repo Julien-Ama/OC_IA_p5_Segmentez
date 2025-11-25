@@ -1,1 +1,1 @@
-# OC_IA_p5_Segmentez
+# Segmentez des clients d'un site e-commerce
